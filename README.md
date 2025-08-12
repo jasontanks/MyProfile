@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tan Kean Siak (jasontanks)
+# 👋 Hi, I'm Tan Kean Siak
 
 I'm a passionate full-stack developer and **Certified Scrum Master** with **10+ years of experience** in web and frontend development. I specialize in building scalable, maintainable applications with a strong focus on user experience, clean architecture, and agile delivery.
 
